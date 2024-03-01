@@ -10,7 +10,7 @@
 </div>  
   
 
-- 🌱 I’m currently learning MERN Stack Developer in GUVI  
+- 🌱 I’m MERN Stack Developer   
 
 - 🔎I'm Looking for a Job as Web Developer  
   
