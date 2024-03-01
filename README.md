@@ -11,6 +11,7 @@
   
 
 ----
+## <div align="center">
 # 💫 About Me:
 👋I'm Full Stack Developer (MERN)<br>🔭I'm Looking for a Job as Web Developer<br>🌱I"m Currently Learning NextJs, TypeScript<br>💬Ask me about Web Development<br>
 
@@ -31,6 +32,6 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/mdsalmanfaris) 
 
-  
+  </div> 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
