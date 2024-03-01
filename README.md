@@ -12,7 +12,7 @@
 
 ----
 # 💫 About Me:
-👋I'm Full Stack Develpoer (MERN)<br>🔭I'm Looking for a Job as Web Developer<br>🌱I"m Currently Learning NextJs, TypeScript<br>💬Ask me about Web Development<br>
+👋I'm Full Stack Developer (MERN)<br>🔭I'm Looking for a Job as Web Developer<br>🌱I"m Currently Learning NextJs, TypeScript<br>💬Ask me about Web Development<br>
 
 
 ## 🌐 Socials:
